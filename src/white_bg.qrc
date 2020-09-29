@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>white_bg.jpg</file>
+        <file>Metro.ico</file>
+    </qresource>
+</RCC>
